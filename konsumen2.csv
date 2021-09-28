@@ -1,0 +1,11 @@
+--2021-09-28 13:24:50--  https://raw.githubusercontent.com/hanifro/dataset/main/konsumen2
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 218 [text/plain]
+Saving to: ‘konsumen2’
+
+     0K                                                       100% 15.8M=0s
+
+2021-09-28 13:24:50 (15.8 MB/s) - ‘konsumen2’ saved [218/218]
+
